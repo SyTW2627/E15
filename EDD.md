@@ -64,9 +64,4 @@ erDiagram
         string level
     }
 ```
-## Mas comentarios
-# Muchos mas comentarios
-# Muchisimos comentarios
-# Maaaas comentarios 
-# Super comentarios 
-# Demasiados comentarios
+## Solo este comentario
