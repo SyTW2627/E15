@@ -19,6 +19,7 @@ const seedEmployees: Employee[] = [
   { name: "Alan Turing", position: "Software Engineer", level: "mid" },
   { name: "Katherine Johnson", position: "Data Engineer", level: "junior" },
   { name: "Margaret Hamilton", position: "Tech Lead", level: "senior" },
+  { name: "Frompe Lopez", position: "Jefazo", level: "mid"},
 ];
 
 async function seedDatabase(): Promise<void> {
